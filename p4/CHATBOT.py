@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# Import and load the data file
-
-# In[ ]:
-
+#nltk chatbot
 
 import nltk
 from nltk.stem import WordNetLemmatizer
